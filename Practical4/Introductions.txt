@@ -1,4 +1,7 @@
 Hello. 
-My name is Rob.
-I like drinking tea and eating chocolate biscuits.
-I bought a new desk chair. I still don't like it!
+My name is Zhao Bingkang.
+I like drinking coffee.
+I like eating dessert.
+I do not like nano. I prefer vim.
+I'm struggling in learning machine learning.
+(This txt is edited by using vim)
