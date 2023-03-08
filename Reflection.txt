@@ -1,3 +1,20 @@
+'''
+   My own reflection is in IBI1_2022-23/Practical4
+   My own reflection is in IBI1_2022-23/Practical4
+   My own reflection is in IBI1_2022-23/Practical4
+   My own reflection is in IBI1_2022-23/Practical4
+   My own reflection is in IBI1_2022-23/Practical4
+'''
+
+
+
+
+
+
+
+
+
+
 # Third note on 7/1/21, yes! I can make changes in both directions!!
 
 # Second note from 7/1/21, I managed to get changes on the ZJE server onto GitHub but can I make changes on the website and send them back?
