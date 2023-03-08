@@ -1,0 +1,7 @@
+In the guidence, the steps are written very briefly, but this allows us to identify and solve problems ourselves.
+
+There are two problems I met.
+1. To access Github, we need to use VPN in China. But I do not know how to use vpn in server command line mode.
+   Therefore, I have done most of the tasks locally but not on the ZJE server.
+2. When I was trying to push local files to Github, I forget to change the name of branch. 
+   My local branch was named main, so I should have written git push origin main.
