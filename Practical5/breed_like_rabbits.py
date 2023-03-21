@@ -3,7 +3,7 @@
 #   calculate numbers of next generation
 #   increase the generation count
 # print the result
-#
+
 n = 2
 generation = 1
 while n <= 100:
