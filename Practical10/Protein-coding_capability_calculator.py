@@ -1,3 +1,5 @@
+# in my code, I assumed their exist more than one ATG and TGA
+
 # the calculater function
 #   find start codons and stop codons
 #   calculate the percents of coding sequence
