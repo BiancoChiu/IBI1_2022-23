@@ -16,7 +16,6 @@ factors = dict()
 regular = dict()
 PWM = dict()
 check_box = dict()
-
 # Create the main window
 main = Tk()
 
