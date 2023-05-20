@@ -1,0 +1,6 @@
+Question: When did the number of COVID-19 infections in China experience a surge?
+The question is addressed in line 44
+
+From the graph, it can be seen that there was a significant increase in February,
+which may be related to the population movement and gatherings
+during the Chinese New Year.
