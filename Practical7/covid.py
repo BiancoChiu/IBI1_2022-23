@@ -9,7 +9,7 @@ os.chdir(r'E:\文档\Semester_2\IBI\Week 7. Public Health Informatics')
 covid_data = pd.read_csv('full_data.csv')
 
 # Printing the second column from every 100th row from the first 1000 rows
-print(covid_data.iloc[99: 1000: 100, 1])
+print(covid_data.iloc[0:1001:100, 1])
 # show total cases for all rows corresponding to Afghanistan.
 print(covid_data[covid_data['location'] == 'Afghanistan'].iloc[:, 4])
 
